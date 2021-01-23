@@ -1,2 +1,6 @@
 # CronJobExpressUsing
-CronJobExpress package using example
+CronJobExpress package usage example
+
+## Package source
+* https://github.com/francfbs/CronJobExpress
+
